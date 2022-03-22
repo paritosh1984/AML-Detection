@@ -1,3 +1,3 @@
 # AML-Detection
 
-https://www.kaggle.com/ntnu-testimon/paysim1
+https://www.kaggle.com/code/benroshan/transaction-fraud-detection/data
